@@ -94,7 +94,7 @@ live_loop :second do
   sleep 0.25
 end
 live_loop :po do
-  sleep 5
+  sleep 5.625
   sample "C:/Users/malachi_hudshon/Downloads/challenge_d (1)/mario_sounds/coin.wav"
   
   
